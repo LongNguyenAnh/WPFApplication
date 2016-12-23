@@ -1,0 +1,13 @@
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\bin\x86\Debug\WpfApplication.exe.config
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\App.g.cs
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\MainWindow.baml
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\bin\x86\Debug\WpfApplication.exe
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\bin\x86\Debug\WpfApplication.pdb
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.exe
+D:\LONG_TASK\Training\CodedUI\CodedUI_Test\WpfApplication\WpfApplication\obj\x86\Debug\WpfApplication.pdb

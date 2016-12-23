@@ -1,0 +1,1527 @@
+[1118/154157:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154157:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154157:ERROR:extension_system.cc(71)] Failed to parse extension manifest.
+[1118/154157:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154157:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154158:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154158:WARNING:resource_bundle.cc(509)] locale resources are not loaded
+[1118/154158:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154158:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154158:ERROR:content_client.cc(344)] No data resource available for id 30379
+[1118/154158:ERROR:content_client.cc(344)] No data resource available for id 30378
+[1118/154158:ERROR:content_client.cc(344)] No data resource available for id 30370
+[1118/154158:ERROR:content_client.cc(344)] No data resource available for id 30380
+[1118/154158:ERROR:content_client.cc(344)] No data resource available for id 30371
+[1118/154200:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154200:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154200:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154201:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154201:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154201:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154201:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154201:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154201:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154201:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154202:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154202:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154202:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154202:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154202:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154202:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154202:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154202:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154203:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154203:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154203:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154203:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154203:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154203:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154203:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154203:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154203:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154203:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154203:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154203:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154204:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154204:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154204:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154204:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154204:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154204:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154204:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154204:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154204:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154204:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154204:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154204:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154205:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154205:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154205:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154205:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154205:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154205:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154205:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154205:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154205:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154205:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154205:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154205:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154205:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154205:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154206:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154206:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154206:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154206:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154206:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154206:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154206:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154206:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154206:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154206:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154206:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154206:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154206:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154206:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154207:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154207:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154207:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154207:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154207:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154207:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154210:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154210:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154210:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154210:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154210:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154210:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154211:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154211:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154211:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154211:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154211:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154211:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154212:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154212:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154212:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154212:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154212:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154212:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154212:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154212:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154212:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154212:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154212:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154212:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154213:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154213:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154213:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154213:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154213:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154213:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154216:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154216:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154216:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154216:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154216:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154216:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154216:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154216:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154216:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154216:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154216:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154216:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154216:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154216:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154216:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154217:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154217:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154217:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154217:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154217:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154217:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154217:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154217:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154217:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154218:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154218:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154218:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154218:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154218:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154218:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154218:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154218:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154218:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154218:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154218:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154218:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154219:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154219:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154219:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154219:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154219:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154219:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154220:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154220:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154220:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154220:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154220:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154220:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154221:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154221:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154221:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154221:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154221:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154221:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154221:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154221:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154221:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154221:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154221:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154221:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154221:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154221:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154221:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154221:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154222:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154222:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154222:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154222:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154222:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154222:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154222:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154222:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154222:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154222:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154222:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154222:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154222:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+[1118/154222:ERROR:main_delegate.cc(724)] Could not load locale pak for en-US
+[1118/154246:ERROR:extension_system.cc(71)] Failed to parse extension manifest.
+[1118/154247:ERROR:content_client.cc(344)] No data resource available for id 30379
+[1118/154247:ERROR:content_client.cc(344)] No data resource available for id 30378
+[1118/154247:ERROR:content_client.cc(344)] No data resource available for id 30370
+[1118/154247:ERROR:content_client.cc(344)] No data resource available for id 30380
+[1118/154247:ERROR:content_client.cc(344)] No data resource available for id 30371
+[1118/154248:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154248:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154248:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154248:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154249:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154249:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154249:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154249:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154250:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154250:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154250:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154250:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154250:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154250:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154250:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154250:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154250:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154250:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154250:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154250:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154251:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154251:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154251:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154251:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154251:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154251:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154251:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154251:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154251:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154251:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154252:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154252:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154252:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154252:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154252:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154252:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154252:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154252:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154252:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154252:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154252:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154252:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154253:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154253:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154253:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154253:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154253:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154253:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154253:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154253:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154253:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154253:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154253:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154253:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154254:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154254:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154254:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154254:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154254:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154254:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154254:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154254:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154254:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154254:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154255:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1118/154255:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1118/154255:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1118/154341:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154341:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154341:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154341:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154342:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154342:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154342:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154342:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154342:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154342:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154342:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154342:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154343:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154343:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154343:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154343:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154343:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154343:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154343:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154343:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154344:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154344:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154344:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154344:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154345:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154345:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154345:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154345:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154345:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154345:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154345:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154345:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154346:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154346:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154346:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154346:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154346:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154346:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154346:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154346:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154347:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154347:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154347:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154347:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154347:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154347:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154347:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154347:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154348:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154348:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154348:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154348:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154348:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154348:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154348:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154348:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154348:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154348:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154349:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154349:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154349:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154349:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154349:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154349:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154349:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154349:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154350:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154350:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154350:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154350:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154350:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154350:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154350:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154350:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154351:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154351:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154351:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154351:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154351:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154351:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154351:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154351:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154351:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154351:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154352:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154352:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154352:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154352:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154352:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154352:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154352:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154353:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154353:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154353:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154353:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154353:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154354:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154354:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154354:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154354:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154354:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154354:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154354:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154354:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154354:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154354:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154355:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154355:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154355:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154355:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154355:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154355:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154355:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154355:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154355:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154355:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154356:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154356:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154356:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154356:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154356:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154356:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154356:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154356:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154356:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154356:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154357:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154357:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154357:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154357:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154357:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154357:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154357:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154357:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154357:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154357:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154358:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154358:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154358:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154358:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154358:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154358:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154358:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154358:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154359:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154359:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154359:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154359:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154400:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154400:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154400:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154400:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154400:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154400:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154400:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154400:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154400:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154401:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154401:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154401:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154401:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154402:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154402:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154402:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154402:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154402:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154402:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154402:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154402:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154404:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154404:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154404:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154404:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154405:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154405:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154405:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154405:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154405:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154405:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154405:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154405:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned 0, SSL error code 1, net_error -157
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154407:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned 0, SSL error code 1, net_error -157
+[1118/154408:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154408:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154408:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154408:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154409:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154409:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154409:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154409:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154409:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154409:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154409:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154409:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154412:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154412:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154412:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154412:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154413:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154413:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154413:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154413:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154414:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154414:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154414:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154414:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1118/154414:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154414:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154415:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154415:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154415:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154415:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154415:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154415:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-00000000208C9560]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-00000000208C9560]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154416:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154416:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA5F30]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154416:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA5F30]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154417:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154417:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154417:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154417:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154427:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154427:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154427:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154427:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154428:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154428:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154428:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154428:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154428:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154428:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154428:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned 0, SSL error code 1, net_error -157
+[1118/154429:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154429:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1118/154429:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned 0, SSL error code 1, net_error -157
+[1118/154430:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154430:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154430:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154430:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154432:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154432:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154432:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154432:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-0000000020AA63B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154433:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-0000000020AA63B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1118/154437:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154437:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154437:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154437:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154438:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154438:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154438:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154438:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154439:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154439:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154439:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154439:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154443:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154443:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154443:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154443:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154444:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154444:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154444:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154445:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154445:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154445:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154445:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154445:ERROR:gpu_channel_host.cc(269)] Failed to send GpuChannelMsg_CreateOffscreenCommandBuffer.
+[1118/154445:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1118/154445:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154447:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154447:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154447:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154448:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154450:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1118/154450:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1118/154450:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1118/154450:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1118/154452:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[1118/154452:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1118/154452:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1118/154452:WARNING:channel.cc(359)] RawChannel write error
+[1221/134625:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134625:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134625:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134625:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134625:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134625:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134625:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134625:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134625:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134625:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134625:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134625:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134626:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134626:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134626:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134626:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134626:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134626:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134627:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134627:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134627:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134627:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134627:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134627:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134627:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134627:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134627:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134628:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134628:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134628:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134629:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134629:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134629:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134629:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134629:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134629:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134629:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134629:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134629:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134629:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134629:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134629:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134630:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134630:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134630:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134630:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134630:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134630:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134630:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134630:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134630:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134630:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134630:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134630:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134631:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134631:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134631:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134631:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134631:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134631:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134632:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134632:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134632:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134632:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134632:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134632:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134633:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134633:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134633:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134633:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134633:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134633:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134633:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134633:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134633:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134633:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134633:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134633:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134634:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134634:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134634:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134634:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134634:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134634:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134634:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134634:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134634:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134634:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134634:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134634:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134635:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134635:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134635:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134635:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134635:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134635:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134636:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134636:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134636:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134636:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134636:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134636:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134636:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134636:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134636:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134636:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134637:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134637:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134637:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134637:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134637:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134637:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134637:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134637:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134637:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134637:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134637:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134637:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134638:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134638:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134638:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134638:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134638:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134638:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134638:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134638:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134638:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134638:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134638:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134638:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134639:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134639:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134639:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134639:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134639:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134639:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134640:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134640:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134640:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134640:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134640:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134640:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134641:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134641:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134641:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134641:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134641:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134641:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134642:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134642:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134642:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134642:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134642:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134642:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134642:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134642:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134642:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134642:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134642:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134642:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134643:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134643:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134643:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134643:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134643:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134643:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134643:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134643:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134643:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134644:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134644:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134644:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134644:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134644:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134644:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134644:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B624D90]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134644:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B624D90]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1221/134645:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134645:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134645:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134645:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134645:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134645:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134645:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134645:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134645:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134645:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134645:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134645:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/134646:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/134646:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/134646:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/134646:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/134646:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/134646:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141037:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141037:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141037:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141037:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141038:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141038:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141038:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141038:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141038:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141038:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141038:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141038:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141039:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141039:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141039:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141039:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141039:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141039:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141039:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141039:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141040:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141040:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141040:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141040:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141041:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141041:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141041:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141041:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141041:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141041:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141041:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141041:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141041:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141041:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141544:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141544:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141544:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141544:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141545:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141545:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141545:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141545:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141545:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141545:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141545:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141545:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141546:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141546:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141546:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141546:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141546:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141546:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141546:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141546:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141546:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141546:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141546:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141546:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141547:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141547:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141547:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141547:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141547:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141547:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141547:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141547:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141547:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141547:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141547:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141547:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141548:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141548:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141548:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141548:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141548:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141548:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141548:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141548:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141548:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141548:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141548:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141548:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141549:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141549:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141549:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141549:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141549:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141549:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141549:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141549:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141549:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141549:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141549:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141549:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141550:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141550:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141550:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141550:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141550:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141550:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141550:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141550:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141550:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141550:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141550:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141550:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141551:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141551:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141551:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141551:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141551:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141551:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141551:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141551:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141551:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141551:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141551:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141551:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141552:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141552:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141552:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141552:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141552:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141552:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141552:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141552:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141552:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141552:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141552:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141552:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141553:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141553:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141553:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141553:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141553:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141553:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141554:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141554:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141554:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141554:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141554:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141554:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141554:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141554:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141554:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141554:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141554:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141554:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141555:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141555:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141555:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141555:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141555:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141555:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141556:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141556:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141556:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141556:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141556:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141556:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141556:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141556:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141556:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141557:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141557:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141557:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141557:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141557:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141557:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141558:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141558:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141558:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141558:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141558:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141558:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141558:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141558:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141558:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141558:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141558:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141558:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141559:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141559:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141559:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141559:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141559:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141559:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141600:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141600:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141600:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141600:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141600:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141600:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141600:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141600:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141600:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141600:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141601:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141601:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141601:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141601:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141601:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141601:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141601:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141601:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141601:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141601:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141601:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141601:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141602:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141602:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141602:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141602:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141602:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141602:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141602:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141602:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141602:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141602:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141602:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141602:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141603:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141603:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141603:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141604:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141604:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141604:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141611:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141611:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141611:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141611:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141611:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141611:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141611:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141611:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141611:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141611:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141618:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141618:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141618:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141618:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141618:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141618:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141619:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141619:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141619:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141619:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141619:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141619:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141620:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141620:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141620:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141620:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141620:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141620:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141620:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141620:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141620:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141620:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141837:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141837:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141837:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141837:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141838:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141838:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141838:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141838:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141838:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141838:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141838:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141838:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141839:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141839:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141839:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141839:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141839:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141839:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141839:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141839:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/141840:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/141840:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/141840:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/141840:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/141840:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/141840:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162241:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162241:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162241:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162241:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162242:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162242:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162242:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162242:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162243:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162243:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162243:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162243:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162243:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162243:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162243:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162243:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162244:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162244:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162244:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162244:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162244:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162244:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162244:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162244:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162245:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162245:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162245:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162245:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162245:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162245:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162245:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162245:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162245:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162245:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162245:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162245:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162246:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162246:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162246:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162246:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162246:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162246:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162246:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162246:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162246:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162246:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162246:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162246:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162342:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162342:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162342:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162342:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162342:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162342:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162342:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162342:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162342:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162342:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162343:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162343:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162343:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162343:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162343:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162343:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162343:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162343:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162343:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162344:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162344:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162344:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162344:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162344:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162344:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162344:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162344:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162344:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162345:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162345:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162345:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162345:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162345:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162345:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162345:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162345:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162345:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162345:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162345:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162345:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162346:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162346:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162346:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162346:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162346:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162346:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162346:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162346:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162346:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162346:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162346:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162346:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162347:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162347:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162347:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162347:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162347:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162347:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162347:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162347:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162347:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162347:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162347:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162347:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/162348:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/162348:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/162348:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/162348:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/162348:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/162348:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164743:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164743:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164743:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164743:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164744:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164744:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164744:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164744:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164744:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164744:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164744:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164744:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164745:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164745:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164745:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164745:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/164745:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/164745:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164745:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164745:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164745:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164745:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164746:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164746:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164746:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164746:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/164746:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/164746:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164746:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164746:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164746:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164746:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/164746:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/164746:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164747:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164747:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164747:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164747:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[1221/164747:WARNING:channel.cc(359)] RawChannel write error
+[1221/164747:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164819:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164819:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164819:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164819:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164820:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164820:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164820:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164820:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/164820:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/164820:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164820:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1221/164820:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1221/164820:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1221/164820:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1221/164820:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1221/164820:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1221/164821:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[1221/164821:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1222/162657:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162657:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162657:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162657:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162657:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162657:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162658:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162658:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162658:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162658:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162658:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162658:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162658:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162658:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162658:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162658:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162658:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162658:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162700:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162700:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162700:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162700:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162700:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162700:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162704:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162704:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162704:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162704:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162704:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162704:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162705:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162705:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162705:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162705:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162705:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162705:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162705:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162705:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162705:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162705:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162705:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162705:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162706:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162706:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162706:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162706:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162706:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162706:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162706:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162706:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162706:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162706:ERROR:gpu_channel_host.cc(220)] GpuChannelHost::CreateViewCommandBuffer failed.
+[1222/162706:ERROR:webgraphicscontext3d_command_buffer_impl.cc(229)] Failed to initialize command buffer.
+[1222/162706:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(13979)] [.CommandBufferContext.Compositor-000000001B37D420]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1222/162707:ERROR:gles2_cmd_decoder.cc(7639)] [.CommandBufferContext.Compositor-000000001B37D420]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162707:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162707:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(12228)] Context lost because SwapBuffers failed.
+[1222/162707:ERROR:gles2_cmd_decoder.cc(4471)] Error: 5 for Command kPostSubBufferCHROMIUM
+[1222/162707:ERROR:gpu_command_buffer_stub.cc(1224)] Exiting GPU process because some drivers cannot recover from problems.
+[1222/162707:ERROR:gpu_process_transport_factory.cc(652)] Lost UI shared context.
